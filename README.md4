@@ -1,28 +1,23 @@
-# 🖼️ AI Image Text Recognition System (OCR)
+# AI Image Text Recognition System (OCR)
 
-## 📌 Project Description
+## Project Description
 This project is a simple AI-based Image Text Recognition System built using Python, OpenCV, and pytesseract.  
 The system extracts text from images using OCR (Optical Character Recognition) techniques.
 
-
-## 🚀 Features
+## Features
 - Reads text from images
 - Converts image into grayscale for better accuracy
 - Performs image preprocessing
 - Extracts and displays text using OCR
 - Displays input image
 
----
-
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - OpenCV
 - pytesseract
 - Tesseract OCR
 
----
-
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### Step 1: Install required libraries
 
