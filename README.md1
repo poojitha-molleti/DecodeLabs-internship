@@ -1,0 +1,29 @@
+# 🤖 Rule-Based AI Chatbot
+
+## 📌 Project Description
+This is a simple Rule-Based AI Chatbot built using Python.  
+The chatbot responds to predefined user inputs using if-else conditions and runs continuously until the user exits the chat.
+
+---
+
+## 🚀 Features
+- Handles greetings like Hi, Hello
+- Responds to predefined questions
+- Continuous chat interaction
+- Exit command support
+
+---
+
+## 🛠️ Technologies Used
+- Python
+
+---
+
+## ▶️ How to Run the Project
+
+### Step 1: Open terminal in project folder
+
+### Step 2: Run the command
+
+```bash
+python chatbot.py
