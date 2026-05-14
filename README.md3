@@ -1,0 +1,29 @@
+# 🎬 AI Recommendation System
+
+## 📌 Project Description
+This project is a simple AI Recommendation System built using Python.  
+The system recommends movies to users based on their preferred genre using basic recommendation logic.
+
+
+## 🚀 Features
+- Takes user preferences as input
+- Recommends movies based on genre
+- Supports multiple movie categories
+- Continuous user interaction
+- Exit command support
+
+---
+
+## 🛠️ Technologies Used
+- Python
+
+---
+
+## ▶️ How to Run the Project
+
+### Step 1: Open terminal in project folder
+
+### Step 2: Run the command
+
+```bash
+python recommendation.py
