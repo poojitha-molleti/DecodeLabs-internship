@@ -1,0 +1,28 @@
+# 📊 AI Data Classification Project
+
+## 📌 Project Description
+This project is a simple AI Data Classification system built using Python and Machine Learning.  
+The model is trained using the Iris dataset to classify different flower types based on their measurements.
+
+
+## 🚀 Features
+- Loads and processes dataset
+- Splits data into training and testing sets
+- Trains a machine learning model
+- Predicts flower categories
+- Displays model accuracy
+
+---
+
+## 🛠️ Technologies Used
+- Python
+- Scikit-learn
+
+---
+
+## ▶️ How to Run the Project
+
+### Step 1: Install required library
+
+```bash
+pip install scikit-learn
